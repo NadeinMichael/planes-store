@@ -1,1 +1,1 @@
-# plains-store
+# planes-store
